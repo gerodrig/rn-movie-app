@@ -64,3 +64,8 @@ yarn-error.log
 
 # testing
 /coverage
+
+.vscode
+
+# Environment variable file
+.env
